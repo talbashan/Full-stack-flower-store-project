@@ -1,0 +1,243 @@
+{
+    "users": [
+        {
+            "location": "Jerusalem, Israel",
+            "id": "111111111",
+            "firstname": "Beni",
+            "lastname": "Gantz",
+            "username": "benigantz1",
+            "mail": "benigantz1@gmail.com",
+            "password": "be123",
+            "gender": "male",
+            "type": "worker",
+            "snifId": "167353",
+            "active": "true"
+        },
+        {
+            "location": "Jerusalem, Israel",
+            "id": "111111112",
+            "firstname": "Yitzcv",
+            "lastname": "Asimov",
+            "username": "isacasimov1",
+            "mail": "isacasimov1@gmail.com",
+            "password": "asimov123",
+            "gender": "male",
+            "type": "supplier",
+            "active": "true"
+        },
+        {
+            "location": "Beit Shemesh, Israel",
+            "id": "111111113",
+            "firstname": "Yaakov",
+            "lastname": "Sparrow",
+            "username": "jacksparrow1",
+            "mail": "jacksparrow1@gmail.com",
+            "password": "jack123",
+            "gender": "male",
+            "type": "customer",
+            "active": "true"
+        },
+        {
+            "location": "Jerusalem, Israel",
+            "id": "111111114",
+            "firstname": "Gila",
+            "lastname": "Mabrook",
+            "username": "gilamabrook",
+            "mail": "gilamabrook@gmail.com",
+            "password": "gi123",
+            "gender": "female",
+            "type": "customer",
+            "active": "true"
+        },
+        {
+            "location": "Beit Shemesh, Israel",
+            "id": "111111115",
+            "firstname": "Hedva",
+            "lastname": "Feinstein",
+            "username": "HedvaFeinstein1",
+            "mail": "HedvaFein1@gmail.com",
+            "password": "hed123",
+            "gender": "female",
+            "type": "worker",
+            "snifId": "291231",
+            "active": "true"
+        },
+        {
+            "location": "Jerusalem, Israel",
+            "id": "111111116",
+            "firstname": "Rina",
+            "lastname": "Aviealy",
+            "username": "rinaaviely1",
+            "mail": "rinaaviely1@gmail.com",
+            "password": "ri123",
+            "gender": "female",
+            "type": "supplier",
+            "active": "true"
+        },
+        {
+            "location": "Kiryat Gat, Israel",
+            "id": "111111117",
+            "firstname": "Shalom",
+            "gender": "male",
+            "lastname": "Gigi",
+            "password": "sha123",
+            "type": "customer",
+            "username": "shalomgigi1",
+            "mail": "shalomgigi1@gmail.com",
+            "active": "true"
+        },
+        {
+            "id": "111111119",
+            "firstname": "gef",
+            "lastname": "gold",
+            "gender": "female",
+            "mail": "gfgf@gmail.com",
+            "type": "customer",
+            "active": "true",
+            "location": "Ramat Gan, Israel"
+        },
+        {
+            "id": "111111118",
+            "firstname": "tzur",
+            "lastname": "tamir",
+            "gender": "male",
+            "mail": "TTTT@gmail.com",
+            "type": "worker",
+            "snifId": "291231",
+            "active": "true"
+        }
+    ],
+    "branches": [
+        {
+            "active": "true",
+            "location": "Jerusalem, Israel",
+            "id": "167353",
+            "Adress": "Agron 12, Jerusalem",
+            "year_built": "1958"
+        },
+        {
+            "active": "true",
+            "location": "Jerusalem, Israel",
+            "id": "291231",
+            "Adress": "Rashi 31, Beit Shemesh",
+            "year_built": "2002"
+        },
+        {
+            "active": "true",
+            "location": "Jerusalem, Israel",
+            "id": "372213",
+            "Adress": "King George 5, Jerusalem",
+            "year_built": "2010"
+        }
+    ],
+    "flowers": [
+        {
+            "name": "allium",
+            "color": "darkorchid",
+            "image": "images/allium.jpg",
+            "price": 15
+        },
+        {
+            "name": "bee-orchid",
+            "color": "plum",
+            "image": "images/bee-orchid.jpg",
+            "price": 25
+        },
+        {
+            "name": "bell-heather",
+            "color": "fuchsia",
+            "image": "images/bell-heather.jpg",
+            "price": 35
+        },
+        {
+            "name": "blue-eyed-grass",
+            "color": "lightblue",
+            "image": "images/blue-eyed-grass.jpg",
+            "price": 20
+        },
+        {
+            "name": "crocus",
+            "color": "mediumpurple",
+            "image": "images/crocus.jpg",
+            "price": 15
+        },
+        {
+            "name": "cyclamen",
+            "color": "purple",
+            "image": "images/cyclamen.jpg",
+            "price": 45
+        },
+        {
+            "name": "dianthus",
+            "color": "darkorchid",
+            "image": "images/dianthus.jpg",
+            "price": 40
+        },
+        {
+            "name": "foxglove",
+            "color": "mediumorchid",
+            "image": "images/foxglove.jpg",
+            "price": 25
+        },
+        {
+            "name": "geranium",
+            "color": "blueviolet",
+            "image": "images/geranium.jpg",
+            "price": 20
+        },
+        {
+            "name": "hydrangea",
+            "color": "plum",
+            "image": "images/hydrangea.jpg",
+            "price": 10
+        },
+        {
+            "name": "lavender",
+            "color": "indigo",
+            "image": "images/lavender.jpg",
+            "price": 35
+        },
+        {
+            "name": "lilac",
+            "color": "pink",
+            "image": "images/lilac.jpg",
+            "price": 25
+        },
+        {
+            "name": "petunia",
+            "color": "mediumpurple",
+            "image": "images/petunia.jpg",
+            "price": 20
+        },
+        {
+            "name": "scabiosa",
+            "color": "blueviolet",
+            "image": "images/scabiosa.jpg",
+            "price": 40
+        },
+        {
+            "name": "sea-holly",
+            "color": "blue",
+            "image": "images/sea-holly.jpg",
+            "price": 55
+        },
+        {
+            "name": "sweet-pea",
+            "color": "indigo",
+            "image": "images/sweet_pea.jpg",
+            "price": 30
+        },
+        {
+            "name": "verbena",
+            "color": "fuchsia",
+            "image": "images/verbena.jpg",
+            "price": 15
+        },
+        {
+            "name": "zinnia",
+            "color": "purple",
+            "image": "images/zinnia.jpg",
+            "price": 25
+        }
+    ]
+}
